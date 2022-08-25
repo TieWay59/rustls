@@ -317,6 +317,7 @@ mod msgs;
 mod anchors;
 mod cipher;
 mod conn;
+mod crypto;
 mod error;
 mod hash_hs;
 mod limited_cache;
